@@ -1,4 +1,16 @@
 # Post Pandemic Dating
+# Team Members
+
+Annia Valdes
+
+Joshua Weisbrod-Torres
+
+Victor Cesar Lopez
+
+Tyler Berry
+
+Shane McFadden
+ 
 
 ## Description
 
