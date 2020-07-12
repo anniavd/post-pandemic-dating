@@ -1,15 +1,12 @@
 # Post Pandemic Dating
-# Team Members
 
-Annia Valdes
 
-Joshua Weisbrod-Torres
-
-Victor Cesar Lopez
-
-Tyler Berry
-
-Shane McFadden
+## Team Members
+    Tyler Berry
+    Victor Lopez
+    Shane McFadden
+    Annia Valdes
+    Joshua Weisbrod-Torres
  
 
 ## Description
@@ -60,14 +57,6 @@ The user is recommended possible places to eat.  Information includes the name o
 A random cocktail is shown to the user, if it is not to their liking or if they wishes to see another, clicking on the "Another Drink?" button will show the user another cocktail.
 
 ![Random Cocktail](/assets/images/cocktail.PNG)
-
-
-## Contributors 
-    Tyler Berry
-    Victor Lopez
-    Shane McFadden
-    Annia Valdes
-    Joshua Weisbrod-Torres
 
 ## Used technology
     HTML
